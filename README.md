@@ -1,5 +1,7 @@
 [![Build Status](https://www.travis-ci.com/edpuzino/lab-12.svg?branch=master)](https://www.travis-ci.com/edpuzino/lab-12)
 
+https://www.travis-ci.com/edpuzino/lab-12
+
 https://ed-lab-12.herokuapp.com/
 
 
